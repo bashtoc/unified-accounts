@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title">
+  <title>Centrum Finance</title>
+  <rect width="320" height="96" rx="14" fill="#123d78"/>
+  <path fill="#ef3e35" d="M31 21h35c-13 7-21 16-21 27s8 20 21 27H31c-9-8-14-17-14-27s5-19 14-27Z"/>
+  <text x="82" y="55" fill="#fff" font-family="Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="1">CENTRUM</text>
+  <text x="84" y="75" fill="#a9c3e6" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">FINANCE</text>
+</svg>

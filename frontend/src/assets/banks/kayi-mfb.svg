@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 72" role="img" aria-labelledby="title">
+  <title>Kayi Microfinance Bank</title>
+  <rect width="220" height="72" rx="18" fill="#fff2ec"/>
+  <circle cx="36" cy="36" r="22" fill="#ef6b3c"/>
+  <path d="M27 45V27l9 10 9-10v18" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="43" fill="#ef6b3c" font-family="Arial, sans-serif" font-size="25" font-weight="700">kayi</text>
+</svg>

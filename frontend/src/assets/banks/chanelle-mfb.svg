@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title desc">
+  <title id="title">Chanelle Microfinance Bank</title>
+  <desc id="desc">Chanelle Microfinance Bank wordmark</desc>
+  <circle cx="48" cy="48" r="38" fill="#7a2d68"/>
+  <path d="M61 28c-5-6-12-9-20-9-14 0-25 12-25 29s11 29 25 29c8 0 15-3 20-9l-8-9c-3 4-7 6-12 6-7 0-13-7-13-17s6-17 13-17c5 0 9 2 12 6l8-9Z" fill="#fff"/>
+  <text x="104" y="45" fill="#7a2d68" font-family="Arial, sans-serif" font-size="24" font-weight="700">Chanelle</text>
+  <text x="105" y="69" fill="#6b8198" font-family="Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.8">MICROFINANCE BANK</text>
+</svg>

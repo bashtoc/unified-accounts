@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.98186in" height="8.40938in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1530.72 1843.7"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID1" horiz-adv-x="693" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Nexa Light">
+		<font-face-src>
+			<font-face-name name="NexaLight"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="®" horiz-adv-x="914" d="M442 713c-231,0 -360.998,-165.999 -360.998,-365.002 0,-198 129.998,-364.997 360.998,-364.997 231.999,0 360.998,166.997 360.998,364.997 0,199.003 -129,365.002 -360.998,365.002zm-310 -365.002c0,179.003 112,321.003 310,321.003 198,0 310.999,-142 310.999,-321.003 0,-177.996 -112.999,-320 -310.999,-320 -198,0 -310,142.004 -310,320zm363.999 -41.9967l120.003 -135.999 0 -8.00259 -52.0011 0 -125.001 144.002 -82.9993 0 0 -144.002 -46.9989 0 0 383 169.998 0c163.003,0 168.999,-220.002 16.9993,-238.998l0 0zm-139.998 41.9967l119.998 0c109,0 111.002,151.001 3.00041,151.001l-122.999 0 0 -151.001z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="749" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Nexa Bold">
+		<font-face-src>
+			<font-face-name name="NexaBold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="i" horiz-adv-x="231" d="M161.999 495.001l0 -495.001 -122 0 0 495.001 122 0zm-132.999 136.999c0,-94.9994 144,-94.9994 144,0 0,95.001 -144,95.001 -144,0z"/>
+   <glyph unicode="m" horiz-adv-x="895" d="M490.001 0l0 264c0,65.0002 41.0002,122 106.999,122 66.0008,0 92.9997,-54.9999 92.9997,-120l0 -266 122 0 0 266c0,148 -68.9996,233.999 -208.999,233.999 -64.0011,0 -121.001,-19.999 -165.001,-89.9993 -27.9995,68.0006 -86.9989,92.0006 -146,92.0006 -46.9994,0 -103.999,-18.0008 -130,-68.0006l-8.99961 60 -113 0 0 -494 122 0 0 264c0,65.0002 39.0004,124 105.001,124 66.9999,0 101,-58.9994 101,-124l0 -264 122 0z"/>
+   <glyph unicode="n" horiz-adv-x="590" d="M525 0l0 259c0,154.999 -92.9997,242 -209,242 -61.9998,0 -112,-25.0007 -161.999,-73.9998l-8.00053 66.9999 -108.999 0 0 -494 120.999 0 0 252c0,75.0004 51.0004,137.999 126.001,137.999 77.9993,0 118.999,-56.9996 118.999,-132l0 -257.999 122 0z"/>
+   <glyph unicode="t" horiz-adv-x="399" d="M89.9993 619l0 -127 -91.999 0 0 -105 91.999 0 0 -213.001c0,-122.999 70.0003,-184 177.001,-179.999 36.9991,0.999088 65.9993,6.99987 101,20.9996l-34.0003 103.999c-18.0008,-8.99961 -40.0011,-14.9988 -59.0009,-14.9988 -37.9998,0 -63.9995,22.9994 -63.9995,69.9987l0 213.001 137 0 0 105 -136 0 0 139.999 -122.001 -12.9991z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Nexa Light";font-variant:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Nexa Bold";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil2 {fill:#003333}
+    .fil0 {fill:#026141}
+    .fil6 {fill:#03684A}
+    .fil7 {fill:#05543E}
+    .fil1 {fill:#99FF99}
+    .fil4 {fill:#CC9933}
+    .fil8 {fill:#003333;fill-rule:nonzero}
+    .fil5 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fnt1 {font-weight:normal;font-size:191.88px;font-family:'Nexa Light'}
+    .fnt0 {font-weight:bold;font-size:552.06px;font-family:'Nexa Bold'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1360.21" y1="924.55" x2="928.93" y2="932.26">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0B4134"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#003333"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="1273.05" y1="141.83" x2="1413.76" y2="111.29">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2308877293504">
+   <text x="184.42" y="1838.18"  class="fil0 fnt0">mint</text>
+   <polygon class="fil1" points="973.19,486.01 502.31,1301.58 874.23,1301.58 1199.21,738.69 912.58,242.23 867.29,163.8 210.39,1301.58 300.57,1301.58 872.5,311.61 "/>
+   <path class="fil2" d="M198 1034.11l577.69 -1034.11 285.18 0 426.49 738.69 -325.92 562.89 -287.21 0 324.99 -562.89 -331.92 -574.89 -585.91 1014.81 -83.38 -144.5zm596.24 267.47l-206.84 0 428.33 -741.89 103.42 179.13 -324.91 562.76zm-291.93 0l-149.97 0 -25.88 -44.85 545.85 -945.44 100.88 174.72 -470.88 815.57z"/>
+   <polygon class="fil3" points="1060.87,0 775.69,0 1199.21,738.69 1487.35,738.69 "/>
+   <polygon class="fil4" points="281.38,1178.61 210.39,1301.58 43.58,1301.58 198,1034.11 "/>
+   <polygon class="fil4" points="300.57,1301.58 326.46,1256.73 352.33,1301.58 "/>
+   <polygon class="fil5" points="1487.35,738.69 1161.43,1301.58 874.23,1301.58 1199.21,738.69 "/>
+   <text x="1376.64" y="1630.79"  class="fil6 fnt1">® </text>
+   <path class="fil7" d="M1199.21 738.69l-326.35 562.89 51.77 0 325.29 -563.47 -330.94 -573.2 -51.69 -1.1 331.92 574.89zm-183.55 -179l-428.33 741.89 51.77 0 402.43 -697.09 -25.87 -44.8zm-143.35 -248.4l-571.74 990.29 51.77 0 546.02 -945.73 -26.05 -44.56z"/>
+   <polygon class="fil8" points="1490.78,1307.71 -0,1307.71 -0,1298.64 1490.78,1298.64 "/>
+  </g>
+ </g>
+</svg>

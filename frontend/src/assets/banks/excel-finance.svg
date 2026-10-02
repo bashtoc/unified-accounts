@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title">
+  <title>Excel Finance Bank</title>
+  <rect width="320" height="96" rx="14" fill="#0a6b55"/>
+  <circle cx="48" cy="48" r="25" fill="#f2c94c"/>
+  <path d="m36 48 8 8 17-20" fill="none" stroke="#0a6b55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="86" y="51" fill="#fff" font-family="Arial,sans-serif" font-size="27" font-weight="700">EXCEL</text>
+  <text x="87" y="72" fill="#c8eadf" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">FINANCE BANK</text>
+</svg>

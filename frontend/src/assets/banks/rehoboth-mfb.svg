@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-labelledby="title desc">
+  <title id="title">Rehoboth Microfinance Bank</title>
+  <desc id="desc">Rehoboth Microfinance Bank catalog mark</desc>
+  <rect width="320" height="160" rx="28" fill="#0c6470"/>
+  <path d="M52 83c18-31 39-47 62-47 23 0 44 16 62 47-18 26-39 39-62 39-23 0-44-13-62-39Z" fill="none" stroke="#fff" stroke-width="10"/>
+  <path d="M75 85c12-17 25-25 39-25s27 8 39 25c-12 17-25 25-39 25s-27-8-39-25Z" fill="#d8f28f"/>
+  <circle cx="114" cy="85" r="10" fill="#0c6470"/>
+  <text x="190" y="78" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">REHOBOTH</text>
+  <text x="190" y="104" fill="#d8f28f" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">MICROFINANCE BANK</text>
+</svg>

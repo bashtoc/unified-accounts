@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title">
+  <title>PFI Finance Company</title>
+  <rect width="320" height="96" rx="14" fill="#172c54"/>
+  <circle cx="48" cy="48" r="25" fill="#edc44c"/>
+  <path d="M36 62V34h24v7H44v21M44 48h15" fill="none" stroke="#172c54" stroke-width="5" stroke-linecap="round"/>
+  <text x="86" y="51" fill="#fff" font-family="Arial,sans-serif" font-size="31" font-weight="700">PFI</text>
+  <text x="145" y="51" fill="#d3e0f2" font-family="Arial,sans-serif" font-size="20" font-weight="700">FINANCE</text>
+  <text x="87" y="72" fill="#c0d0e8" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">FINANCE COMPANY</text>
+</svg>

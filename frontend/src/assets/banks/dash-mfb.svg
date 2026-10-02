@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 72" role="img" aria-labelledby="title">
+  <title>Dash Microfinance Bank</title>
+  <rect width="220" height="72" rx="18" fill="#f4f7fb"/>
+  <circle cx="36" cy="36" r="22" fill="#143c73"/>
+  <path d="M27 24h11c9 0 15 5 15 12s-6 12-15 12H27z" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+  <text x="78" y="44" fill="#143c73" font-family="Arial, sans-serif" font-size="26" font-weight="700">dash</text>
+</svg>

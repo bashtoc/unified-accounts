@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Solid Allianze Microfinance Bank</title>
+  <desc id="desc">Solid Allianze Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#123d69"/>
+  <path d="M134 151h244v52H187v45h161v50H187v63h191v52H134z" fill="#fff"/>
+  <path d="M134 151h244v20H134z" fill="#f1b53d"/>
+  <text x="256" y="441" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" fill="#f1b53d">ALLIANZE MFB</text>
+</svg>

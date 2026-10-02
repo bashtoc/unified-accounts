@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-labelledby="title desc">
+  <title id="title">Rockshield Microfinance Bank</title>
+  <desc id="desc">Rockshield Microfinance Bank catalog mark</desc>
+  <rect width="320" height="160" rx="28" fill="#12253d"/>
+  <path d="M54 35h62l19 24v44l-50 25-50-25V59l19-24Z" fill="#39b8a4"/>
+  <path d="m55 90 17-25 13 14 12-19 20 30-31 19-31-19Z" fill="#12253d"/>
+  <path d="m72 64 13 15 12-19" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="207" y="78" fill="#fff" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle">ROCKSHIELD</text>
+  <text x="207" y="104" fill="#8edfd1" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">MICROFINANCE BANK</text>
+</svg>

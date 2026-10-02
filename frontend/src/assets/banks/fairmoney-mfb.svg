@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">FairMoney Microfinance Bank</title>
+  <desc id="desc">FairMoney Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#fff"/>
+  <circle cx="256" cy="210" r="118" fill="#111"/>
+  <path d="M190 147h138v43h-91v34h80v41h-80v75h-47z" fill="#ffe600"/>
+  <text x="256" y="443" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="#111">FAIRMONEY</text>
+</svg>

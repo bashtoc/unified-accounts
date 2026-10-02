@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 96" role="img" aria-labelledby="title">
+  <title>Citi</title>
+  <text x="16" y="65" fill="#255be3" font-family="Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-3">citi</text>
+  <path d="M55 30c18-22 58-22 78 0" fill="none" stroke="#ef4338" stroke-width="9" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Benysta Microfinance Bank</title>
+  <desc id="desc">Benysta Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#0c6481"/>
+  <circle cx="256" cy="203" r="103" fill="#f2b74a"/>
+  <path d="M200 144h67c49 0 78 24 78 60 0 18-8 33-23 43 23 9 35 25 35 48 0 42-33 64-91 64h-66zm48 39v49h25c15 0 25-9 25-25 0-15-10-24-25-24zm0 86v51h30c18 0 30-9 30-26 0-16-12-25-30-25z" fill="#fff"/>
+  <text x="256" y="442" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="41" font-weight="700" fill="#fff">BENYSTA MFB</text>
+</svg>

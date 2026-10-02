@@ -1,0 +1,261 @@
+# Bank logo attribution
+
+The additional Nigerian bank SVG assets in this directory were sourced from the [Paystack NigeriaLogos project](https://github.com/PaystackHQ/nigerialogos), an MIT-licensed open-source collection. The license text is included in `NIGERIALOGO_LICENSE.txt`.
+
+## Requested bank assets
+
+- `suntrust-bank.png`: SunTrust Bank Nigeria logo from [suntrustng.com](https://www.suntrustng.com/).
+- `titan-bank.png`: Titan Trust Bank logo used by the Nigerian Titan bank record, sourced from [Global Finance's Titan Trust Bank feature](https://gfmag.com/media/expert-perspectives-media/conversation-mudassir-amray-md-and-ceo-titan-trust-bank/).
+- `premiumtrust-bank.webp`: PremiumTrust Bank logo from [iconLogoVector](https://iconlogovector.com/logo/premium-trust-bank), which attributes the source to [premiumtrustbank.com](https://www.premiumtrustbank.com/).
+- `signature-bank.png`: Signature Bank Nigeria logo from [Seeklogo](https://seeklogo.com/vector-logo/523593/signature-bank), which attributes the website to [signaturebankng.com](https://signaturebankng.com/).
+- `optimus-bank.svg`: Optimus Bank logo from [optimusbank.com](https://optimusbank.com/).
+- `alpha-morgan.png`: Alpha Morgan Bank logo from the [Wikimedia Commons source page](https://commons.wikimedia.org/wiki/File:Alpha_Morgan_bank_logo.png), sourced from [alphamorganbank.com](https://www.alphamorganbank.com/).
+- `tatum-bank.png`: Tatum Bank mark from [Pulse Nigeria's Tatum Bank feature](https://www.pulse.ng/story/tatum-bank-meets-cbn-recapitalization-milestone-2026031021135840631).
+- `unity-bank.png`: Unity Bank wordmark published with [ThisDayLive's Unity Bank feature](https://www.thisdaylive.com/2025/05/14/unity-bank-deepens-commitment-to-financial-literacy-youth-outreach/).
+- `platinum-mortgage-bank.png`: Platinum Mortgage Bank logo from the bank's [official site](https://staff.pmbl-ng.com/home/vision).
+- `taj-bank.png`: TAJBank logo from the bank's [official website](https://tajbank.com/).
+- `parkway-readycash.png`: ReadyCash by Parkway logo from the [official ReadyCash website](https://readycash.parkway.ng/).
+- `chikum-mfb.png`: Chikum Microfinance Bank logo from the bank's [official website](https://www.chikummfb.com/about/).
+- `aso-savings-loans.png`: ASO Savings & Loans logo from the [Paystack NigeriaLogos collection](https://github.com/PaystackHQ/nigerialogos).
+- `jubilee-life.png`: Jubilee-Life Mortgage Bank logo from the bank's [official website](https://jubileelifeng.com/).
+- `abbey-mortgage-bank.png`: Abbey Mortgage Bank app mark from its [official Google Play listing](https://play.google.com/store/apps/details?id=com.abbey.app).
+- `firsttrust-mortgage-bank.svg`: FirstTrust Mortgage Bank logo from the bank's [official website](https://www.ftmortgagebankplc.com/aboutUs).
+- `imperial-homes.png`: Imperial Homes Mortgage Bank logo from the bank's [official website](https://www.imperialmortgagebank.com/management.html).
+- `fsdh.svg`: FSDH Merchant Bank logo from the bank's [official website](https://fsdhmerchantbank.com/about/).
+- `rand-merchant-bank.svg`: Rand Merchant Bank Nigeria mark from the bank's [official website](https://www.rmb.com.ng/).
+- `coronation-merchant-bank.svg`: Coronation Merchant Bank logo from the bank's [official website](https://www.coronationmb.com/).
+- `nova-bank.png`: NOVA Bank logo from the bank's [official website](https://www.novabank.ng/).
+- `greenwich-merchant-bank.png`: Greenwich Merchant Bank mark published by [ThisDayLive](https://www.thisdaylive.com/2025/10/27/greenwich-merchant-banks-n50bn-recapitalisation-a-milestone-of-strength-and-stability-in-nigerias-banking-sector/).
+- `carbon.svg`: Carbon logo from the [Paystack NigeriaLogos collection](https://github.com/PaystackHQ/nigerialogos).
+- `vfd-microfinance-bank.jpg`: VBank mark from the bank's official [Google Play listing](https://play.google.com/store/apps/details?id=com.vfd.app).
+- `yes-mfb.png`: Yes Microfinance Bank mark from the bank's [official website](https://yesmfbank.com/about.php).
+- `accion-microfinance-bank-icon.png`: Accion Microfinance Bank mark from the bank's [official website](https://www.accionmfb.com/).
+- `bosak-microfinance-bank.png`: Bosak Microfinance Bank wordmark from the bank's [official website](https://www.bosakmfb.com/).
+- `think-finance-mfb.jpeg`: TF Microfinance Bank mark from the bank's [official website](https://thinkfinancemfb.com/about-us).
+- `gateway-mortgage-bank.png`: Gateway Mortgage Bank mark from the bank's [official website](https://gatewaymortgagebankng.com/).
+- `futminna-microfinance-bank.jpg`: Federal University of Technology Minna mark from the [Wikimedia Commons source page](https://commons.wikimedia.org/wiki/File%3AFutminna_logo.jpg), sourced from the university website.
+- `cashconnect-mfb.png`: CashConnect Microfinance Bank wordmark from the bank's [official website](https://cashconnectng.com/).
+- `kolomoni-mfb.webp`: Kolomoni MFB logo from the bank's [official website](https://kolomonimfb.com/).
+- `money-master-psb.png`: MoneyMaster PSB app mark from its official [Google Play listing](https://play.google.com/store/apps/details?id=com.moneymasterpsb.app).
+- `kayvee-mfb.png`: KayVee Microfinance Bank mark from the bank's [official website](https://kayveemfb.com.ng/about-us-3/).
+- `bank78-mfb.png`: Bank78 MFB mark from the bank's [official website](https://www.bank78.co/about).
+- `credit-direct.svg`: Credit Direct logo from the company's [official website](https://www.creditdirect.ng/about-us).
+- `sage-grey-finance.png`: Sage Grey logo from the company's [official Google Play listing](https://play.google.com/store/apps/details?id=com.sagamy.sagegreymobile).
+- `78-finance-company.png`: Bank78 mark used by 78 Finance Company Limited, sourced from the company's [official website](https://www.bank78.co/).
+- `abu-microfinance-bank.png`: Ahmadu Bello University Microfinance Bank logo from the bank's [official website](https://www.abumfbank.com.ng/).
+- `al-barakah-mfb.jpg`: Al-Barakah Microfinance Bank logo from the bank's [official website](https://albarakahmfb.com/).
+- `allworkers-mfb.jpg`: Allworkers MFB mark from the bank's [official website](https://allworkersmfb.com/).
+- `aramoko-mfb.jpg`: Aramoko MFB logo from the bank's [official website](https://aramokomicrofinancebank.com/).
+- `assets-mfb.png`: Assets Microfinance Bank site mark from the bank's [official website](https://assets-mfb.vercel.app/).
+- `berachah-mfb.jpg`: Berachah Microfinance Bank mark from the bank's [official website](https://www.berachahmfb.com/).
+- `banc-corp-mfb.svg`: Banc Corp Microfinance Bank wordmark created for this catalog because the bank does not publish a standalone public logo; the banking licence relationship is described by [Bloc](https://docs.blochq.io/docs/accounts-overview).
+- `beststar-mfb.svg`: Beststar Microfinance Bank logo from the bank's [official website](https://beststarmfb.com/).
+- `eyowo.png`: Eyowo logo from the [Paystack NigeriaLogos project](https://github.com/PaystackHQ/nigerialogos), covered by the MIT license above.
+- `rank-mfb.png`: Rank mark from the bank's [official website](https://www.userank.com/).
+- `dot-mfb.svg`: Dot Microfinance Bank mark from the bank's [official website](https://www.dotmfb.com/).
+- `kredi-money-mfb.png`: Kredi Money MFB app mark from the bank's [official Google Play listing](https://play.google.com/store/apps/details?id=com.kredibank).
+- `chanelle-mfb.svg`: Chanelle Microfinance Bank wordmark created for this catalog because the bank's public domain currently serves a regulatory PDF and does not expose a stable public logo asset.
+- `corestep-mfb.jpg`: Corestep MFB app mark from the bank's official [Corebank website](https://www.corebanknigeria.com/about) and [Google Play listing](https://play.google.com/store/apps/details?id=com.Corestep.androidapp).
+- `crutech-mfb.png`: CRUTECH Community Microfinance Bank logo from the bank's [official website](https://crutechmfb.com/).
+- `ekimogun-mfb.png`: Ekimogun MFB mark from the bank's [official website](https://ekimogunmicrofinancebank.com/).
+- `esoe-mfb.png`: ESO-E Microfinance Bank app mark from its official [Google Play listing](https://play.google.com/store/apps/details?id=com.esoe_client.ng).
+- `clearpay-mfb.png`: ClearPay Microfinance Bank mark from the bank's [official website](https://clearpaymfb.com/); ClearPay publicly identifies itself as the successor brand to Fedeth MFB.
+- `mint-mfb.svg`: Mint MFB mark from the bank's [official website](https://mintng.com/).
+- `aella-mfb.svg`: Aella MFB logo from the bank's [official website](https://aellamfb.com/).
+- `gti-mfb.png`: GTI Microfinance Bank logo from the bank's [official website](https://microfinance.gti.com.ng/).
+- `hasal-mfb.jpg`: HASAL Microfinance Bank logo from the bank's [official website](https://hasalmfb.com/).
+- `ilaro-poly-mfb.png`: Ilaro Polytechnic Microfinance Bank mark from the [Federal Polytechnic Ilaro official news page](https://federalpolyilaro.edu.ng/news/ilaro-poly-microfinance-bank).
+- `imowo-mfb.png`: Imowo Microfinance Bank logo from the bank's [official website](https://imowomicrofinance.com/).
+- `ikoyi-osun-mfb.svg`: Catalog mark created for Ikoyi-Osun Microfinance Bank because the public bank listings provide institution details but no stable public logo asset; institution identity cross-checked against the [NDIC insured institutions list](https://ndic.gov.ng/list-of-insured-institutions/list-of-microfinance-banks/).
+- `loma-mfb.svg`: LOMA MFB logo from the bank's [official website](https://www.lomabank.com/), placed on a local dark backing for legibility in the light monitoring cards.
+- `links-mfb.png`: Links MFB mark published in the bank's [business listing](https://www.businesslist.com.ng/company/100673/links-microfinance-bank-limited), cross-checked against the bank's public website [linksmfb.com](https://linksmfb.com/).
+- `infinity-mfb.svg`: Catalog mark created for Infinity MFB because the bank's public rebrand announcement confirms its identity but does not expose a stable downloadable logo asset; source [Punch report](https://punchng.com/infinity-mfb-unveils-new-brand-identity/).
+- `mayfair-mfb.png`: Mayfair Micro Finance Bank logo from the bank's [official website](https://mayfairmfb.com/).
+- `bankit-mfb.png`: Bankit MFB logo from the bank's [official website](https://bankitafrica.com/).
+- `mega-mfb.svg`: Catalog mark created for Mega Microfinance Bank because the public product site exposes Farmers.ng branding rather than a standalone bank logo; the official site identifies Farmers.ng as a Mega MFB product at [farmers.ng](https://farmers.ng/).
+- `npf-mfb.png`: NPF Microfinance Bank logo from the bank's [official website](https://npfmicrofinancebankplc.ng/).
+- `buypower-mfb.svg`: BuyPower Microfinance Bank logo from the bank's [official website](https://www.buypowermfb.net/).
+- `olabisi-onabanjo-university-mfb.png`: Olabisi Onabanjo University mark from the university's [official website](https://main.oouagoiwoye.edu.ng/).
+- `oluchukwu-mfb.png`: Oluchukwu Microfinance Bank logo from the bank's [official website](https://oluchukwumfb.com/).
+- `bold-mfb.svg`: BOLD Microfinance Bank logo from the bank's [official website](https://boldmfb.com/).
+- `prospa-capital-mfb.png`: Prospa Capital Microfinance Bank logo from the bank's [official website](https://prospacapitalmfb.com/).
+- `peace-mfb.png`: Peace Microfinance Bank logo from the bank's [official website](https://peacemfb.com/).
+- `petra-mfb.webp`: Petra Microfinance Bank PLC app mark from its [official App Store listing](https://apps.apple.com/us/app/petra-microfinance-bank/id6755034805).
+- `spectrum-mfb.png`: Spectrum Microfinance Bank logo from the bank's [official website](https://spectrummfb.com/).
+- `rehoboth-mfb.svg`: Catalog mark created for Rehoboth Microfinance Bank because its [official website](https://rehobothmfb.com/) does not expose a stable standalone logo asset; institution identity cross-checked against the [CBN licensed-bank list](https://www.cbn.gov.ng/out/2019/fprd/list%20of%20licensed%20microfinance%20banks%20as%20at%20december%2031%2C%202018.pdf).
+- `rockshield-mfb.svg`: Catalog mark created for Rockshield Microfinance Bank because the public [official app listing](https://play.google.com/store/apps/details?id=com.fintellia.rockshieldmfb) and [company profile](https://ng.linkedin.com/company/rockshieldmfb) do not expose a stable downloadable logo asset.
+- `solid-rock-mfb.png`: Solid Rock Microfinance Bank logo from the bank's [official website](https://solidrockmfb.com/).
+- `stateside-mfb.png`: Stateside Microfinance Bank logo from the bank's [official website](https://statesidebank.com/).
+- `cemcs-mfb.png`: CEMCS Microfinance Bank logo from the bank's [official website](https://cemcsmfb.com/).
+- `u-and-c-mfb.jpg`: U&C Microfinance Bank mark from the bank's [official website](https://uandcmfb.com/).
+- `polyunwana-mfb.png`: Polyunwana Microfinance Bank logo from the bank's [official website](https://polyunwanamfb.com/).
+- `unaab-mfb.jpg`: UNAAB Microfinance Bank owner identity from the [Federal University of Agriculture, Abeokuta official website](https://funaab.edu.ng/); the university's official page identifies UNAAB Microfinance Bank as a university-owned institution.
+- `unical-mfb.png`: University of Calabar identity from the university's [official website](https://unical.edu.ng/), used for Unical MFB.
+- `unimaid-mfb.png`: University of Maiduguri crest from the public [University of Maiduguri media source](https://unimaid.info/business), used for UNIMAID Microfinance Bank because the bank's current public site does not expose a standalone bank mark.
+- `uniuyo-mfb.png`: UniUyo Microfinance Bank logo from the bank's [official website](https://uniuyomfb.com/).
+- `uzondu-mfb.svg`: Catalog mark created for Uzondu Microfinance Bank because the bank's [official website](https://uzondumfb.com/) confirms the institution but currently does not expose a stable logo file.
+- `consumer-mfb.png`: Consumer Microfinance Bank logo from the bank's [official website](https://consumermfb.com.ng/).
+- `ebsu-mfb.jpg`: Ebonyi State University identity from the university's [official website](https://ebsu.edu.ng/), used for its university-owned EBSU Microfinance Bank.
+- `amju-unique-mfb.png`: Amju Unique Microfinance Bank logo from the bank's [official website](https://www.amjuuniquemfbng.com/).
+- `bowen-mfb.png`: Bowen Microfinance Bank logo from the bank's [official website](https://www.bowenmfb.org/).
+- `first-option-mfb.svg`: Catalog mark based on the identity of First Option Microfinance Bank, whose [official website](https://firstoptionbank.ng/) blocks direct public asset retrieval in this environment.
+- `sycamore-mfb.svg`: Sycamore mark from the public [NigeriaLogos catalogue](https://github.com/PaystackHQ/nigerialogos), with the institution relationship cross-checked against [Sycamore's official company page](https://www.sycamore.ng/about-us).
+- `solid-allianze-mfb.svg`: Catalog mark created because no stable public logo asset was available for Solid Allianze MFB.
+- `alert-mfb.png`: Alert group mark from the [official Alert Group website](https://alertgroup.com.ng/alert-microfinance/), used for Alert Microfinance Bank.
+- `ultraviolet-mfb.png`: Ultraviolet Microfinance Bank logo from the bank's [official website](https://ultravioletmfb.com/).
+- `victory-mfb.svg`: Catalog mark created for Victory Microfinance Bank; the institution identity was verified against the bank's [official about page](https://victorymfb.com.ng/about), which does not expose a stable downloadable logo.
+- `bellbank-mfb.svg`: Catalog mark created for BellBank Microfinance Bank; the institution identity was cross-checked against the [NDIC public notice](https://ndic.gov.ng/update-on-the-revocation-of-the-operating-licenses-of-46-microfinance-banks-by-the-central-bank-of-nigeria/), with no stable public logo asset available.
+- `rex-mfb.png`: Rex Microfinance Bank logo from the bank's [official website](https://www.rexmfbank.com/).
+- `ffs-mfb.svg`: Catalog mark created for FFS Microfinance Bank; the institution identity was verified against the bank's [official website](https://ffsmfb.com/), whose public asset was not retrievable in this environment.
+- `safe-haven-mfb.svg`: Catalog mark created for Safe Haven MFB; the institution identity was verified against the bank's [official website](https://safehavenmfb.com/), whose public asset was not retrievable in this environment.
+- `trustbanc-j6-mfb.svg`: Catalog mark created for TrustBanc J6 Microfinance Bank; the institution identity was verified against the bank's [official about page](https://www.trustbancmfb.com/about), which did not expose a stable public asset.
+- `nigerian-navy-mfb.png`: Nigerian Navy Microfinance Bank logo from the bank's [official website](https://nigerianavymfb.com/).
+- `personal-trust-mfb.svg`: Catalog mark for the legacy Personal Trust MFB record, cross-checked against the bank's [official rebrand notice](https://personaltrustmfb.com/news/), which identifies the First Ally Trust successor.
+- `above-only-mfb.png`: Above Only Microfinance Bank logo from the bank's [official website](https://aboveonlymfb.com/).
+- `ibank-mfb.png`: iBank Microfinance Bank logo from the bank's [official website](https://ibankmfb.com/).
+- `pecantrust-mfb.png`: Pecantrust mark from the bank's [official My Pecan Bank website](https://mypecanbank.com/about), which identifies the platform as powered by Pecantrust Microfinance Bank.
+- `bainescredit-mfb.png`: Baines Credit logo from the bank's [official website](https://www.bainescredit.com/).
+- `fcmb-mfb.png`: FCMB Microfinance Bank logo from the bank's [official website](https://www.fcmbmfb.ng/about/).
+- `ibile-mfb.png`: IBILE Microfinance Bank logo from the [official IBILE Holdings portfolio](https://ibileholdings.com/portfolio-page/), linking to the bank's published asset.
+- `hackman-mfb.svg`: Catalog mark created for Hackman Microfinance Bank; the institution identity was verified against its [public company profile](https://ng.linkedin.com/company/hackmanmfb), while the former public site did not expose a stable asset.
+- `yct-mfb.png`: Yaba College of Technology identity from the institution's [official website](https://www.yabatech.edu.ng/), used for its YCT MFB record.
+- `nsuk-mfb.png`: Nasarawa State University identity from the university's [official website](https://nsuk.edu.ng/), used for its NSUK MFB record.
+- `benysta-mfb.svg`: Catalog mark created for Benysta Microfinance Bank; the institution identity was cross-checked against the [CBN licensed MFB list](https://www.cbn.gov.ng/Out/2022/FPRD/List%20of%20Microfinance%20Banks%20as%20at%20December%2031%2C%202021.pdf), with no stable logo asset published.
+- `tangerine-money.svg`: Catalog mark based on the current Tangerine Money identity described on the [official Tangerine Money website](https://money.tangerine.africa/), whose logo asset was not retrievable in this environment.
+- `grooming-mfb.svg`: Grooming Microfinance Bank logo from the bank's [official website](https://www.groomingmfb.com/).
+- `ibbu-mfb.png`: IBBU Microfinance Bank logo from the bank's [official website](https://www.ibbumfb.com/).
+- `rigo-mfb.png`: Rigo mark from [Rigo Finance's official website](https://www.rigofinance.com/), which identifies Rigo Microfinance Bank.
+- `quickfund-mfb.png`: QuickFund Microfinance Bank logo from the bank's [official website](https://www.quickfundmfb.com/).
+- `crescent-mfb.svg`: Catalog mark created for Crescent MFB; the institution identity was verified in the Paystack bank catalogue, with no stable public logo asset published.
+- `nirsal-mfb.png`: NIRSAL Microfinance Bank logo from the bank's [official website](https://nmfb.com.ng/).
+- `kanopoly-mfb.svg`: Catalog mark created for KANOPOLY MFB; the institution identity was cross-checked against the public [CBN MFB listing](https://www.cbn.gov.ng/Out/2022/FPRD/List%20of%20Microfinance%20Banks%20as%20at%20December%2031%2C%202021.pdf), with no stable public logo asset exposed.
+- `sparkle-mfb.png`: Sparkle Microfinance Bank mark from the bank's [official website](https://www.sparkle.ng/).
+- `abulesoro-mfb.svg`: Catalog mark created for Abulesoro MFB; the bank record is retained from the backend institution catalogue because no stable public logo asset was found.
+- `firmus-mfb.png`: Firmus Microfinance Bank logo from the bank's [official website](https://www.firmusmfb.com/about-us/).
+- `unilag-mfb.png`: UNILAG Microfinance Bank logo from the bank's [official website](https://www.unilagmfbank.com/about-us/).
+- `fairmoney-mfb.svg`: Catalog mark based on FairMoney's current public identity; the institution relationship is documented on the [official FairMoney site](https://fairmoney.io/about), but the logo asset was not retrievable in this environment.
+- `uhuru-mfb.svg`: Catalog mark created for Uhuru MFB; no stable public logo asset was found for the institution record.
+- `firstmidas-mfb.svg`: Catalog mark created for FirstMidas MFB; the institution identity was verified against its [official website](https://www.firstmidasmfb.com/about-us/), which did not expose a stable logo asset.
+- `davenport-mfb.svg`: Catalog mark created for Davenport Microfinance Bank; no stable Nigerian bank logo asset was available from the public search results.
+- `aku-mfb.svg`: Aku Microfinance Bank logo from the bank's [official website](https://aku.africa/).
+- `aztec-mfb.png`: Aztec Microfinance Bank logo from the bank's [official website](https://www.aztecmfbank.com/about-us/).
+- `bankly-mfb.svg`: Bankly logo served by the bank's [official help centre](https://bankly.ng/help-centre/a/product-offerings).
+- `awacash-mfb.svg`: AwaCash logo served by the bank's [official website](https://awacashmfb.com/en/assets/images/logo/).
+- `cashbridge-mfb.png`: Cashbridge Microfinance Bank logo from the bank's [official website](https://cashbridgemfb.com/).
+- `waya-mfb.svg`: WayaBank identity based on the bank's [official website](https://www.wayabank.ng/) and public brand presentation; the site did not expose a stable downloadable logo asset.
+- `net-mfb.png`: NET Microfinance Bank primary logo from the bank's [official website](https://netmfb.com/).
+- `hayat-trust-mfb.png`: Hayat Trust MFB logo from the bank's [official website](https://www.hayattrustmfb.com/sub-about-2/).
+- `dash-mfb.svg`: Dash Microfinance Bank catalog mark based on the bank identity published on its [official website](https://dashbank.ng/who-we-are/), where no stable image asset was exposed.
+- `novus-mfb.svg`: Novus MFB catalog mark based on the institution identity published on its [official website](https://novusmfb.com/about), where no stable image asset was exposed.
+- `zitra-mfb.svg`: Zitra MFB catalog mark for the bank record; no stable public logo asset was exposed in the official-site search.
+- `retrust-mfb.jpeg`: Retrust MFB logo from the bank's [official website](https://retrustmfb.com/contact-2/).
+- `weston-charis-mfb.png`: Weston-Charis MFB logo from the bank's [official website](https://westonmfb.com/).
+- `nuvion-mfb.svg`: Nuvion MFB catalog mark for the institution record; no stable Nigerian bank logo asset was exposed in the official-site search.
+- `ubj-mfb.svg`: UBJ Microfinance Bank catalog mark based on the institution identity and official website at [ubjmfb.com.ng](https://ubjmfb.com.ng/); the site blocked direct asset retrieval.
+- `tenn-mfb.png`: TENN logo from the bank's [official TENN Credit site](https://www.tenncredit.com/resource/terms-service).
+- `springfield-mfb.svg`: Springfield Microfinance Bank logo from the bank's [official website](https://www.springfieldmfb.com/about).
+- `cedrus-mfb.svg`: Cedrus MFB catalog mark for the bank record; no stable public logo asset was exposed in the official-site search.
+- `maal-mfb.svg`: Maal NI MFB logo from the bank's [official website](https://www.maalbanking.com/).
+- `uniabuja-mfb.png`: University of Abuja Microfinance Bank logo from the bank's [official website](https://uniabujamfb.com/about-us/).
+- `boost-mfb.png`: Boost Microfinance Bank logo served from the bank's [official asset host](https://oss-public-prod.boostmfb.com/logo/boostmfbLogo.png), linked from its official banking service.
+- `dillon-mfb.png`: Dillon Microfinance Bank logo from the bank's [official website](https://dillonmfb.com/About-Us).
+- `5tt-mfb.png`: 5TT MFB logo from the bank's [official website](https://5ttbank.com/).
+- `cool-mfb.svg`: Cool Microfinance Bank catalog mark based on the bank identity confirmed through its [official app listing](https://apps.apple.com/us/app/cool-mobile/id6756433121); no stable public logo asset was exposed.
+- `ineba-gogo-mfb.svg`: Ineba Gogo MFB catalog mark based on the institution identity published on its [official website](https://igmfbgroup.com/list-view-01/), which did not expose a stable logo asset.
+- `ethica-mfb.png`: Ethica Microfinance Bank logo from the bank's [official website](https://www.ethicamfb.com/about).
+- `pact-mfb.webp`: Pact Microfinance Bank logo from the bank's [official website](https://pactmfb.ng/privacy-policy/).
+- `mayfresh-mortgage.png`: Mayfresh Mortgage Bank logo from the bank's [official website](https://mayfreshmb.com/).
+- `ibom-mortgage.png`: Ibom Mortgage Bank logo from the bank's [official website](https://ibommortgagebank.com/about/).
+- `kebbi-homes.png`: Kebbi State Home Savings and Loans logo from the institution's [official website](https://kebbihomesavings.com/).
+- `lbic.png`: Lagos Building Investment Company logo from the bank's [official website](https://lbicplc.com/).
+- `haggai-mortgage.png`: Haggai Mortgage Bank logo from the bank's [official website](https://haggaibank.com/).
+- `refuge-mortgage.png`: Refuge Mortgage Bank logo from the bank's [official website](https://refugebank.com.ng/about-us/).
+- `brent-mortgage.png`: Brent Mortgage Bank logo from the bank's [official website](https://brentng.com/our-logo/).
+- `ag-mortgage.jpg`: AG Mortgage Bank logo served by the bank's [official website](https://www.agmortgagebankplc.com/about).
+- `cooperative-mortgage.png`: Cooperative Mortgage Bank logo from the bank's [official website](https://cmbankng.com/about-us/), also published under a permissive logo source record.
+- `adamawa-mortgage.png`: Adamawa Mortgage Bank logo from the institution's [official website](https://adamawamortgagebank.com.ng/).
+- `glory-mfb.png`: Glory Microfinance Bank logo from the bank's [official website](https://glorymfb.com/about-us/).
+- `asset-matrix-mfb.png`: Asset Matrix MFB logo from the bank's [official website](https://assetmatrixmfb.com/).
+- `patrickgold-mfb.svg`: Patrickgold MFB catalog mark for the institution record; no stable public logo asset was exposed in the official-site search.
+- `grants-mfb.svg`: Grants MFB catalog mark for the institution record; no stable public logo asset was exposed in the official-site search.
+- `bank-of-agriculture.png`: Bank of Agriculture logo from the bank's [official website](https://boanig.com/).
+- `atbu-mfb.png`: Abubakar Tafawa Balewa University identity from the university's [official website](https://atbu.edu.ng/about/), used for its ATBU MFB record.
+- `gombe-mfb.svg`: Gombe MFB catalog mark for the institution record; the bank is cross-referenced in the public [CBN licensed MFB list](https://www.cbn.gov.ng/out/2020/fprd/mfb311219.pdf), but no stable public logo asset was found.
+- `source-mfb.svg`: Source MFB catalog mark based on the institution identity confirmed through its [official company profile](https://www.linkedin.com/company/source-mfb); no stable public asset was exposed.
+- `kayi-mfb.svg`: Kayi MFB catalog mark based on the bank identity published on its [official website](https://www.kayi.africa/), which did not expose a stable downloadable logo asset.
+- `bway-mfb.png`: BWay Microfinance Bank logo from the bank's [official website](https://www.bway.ng/).
+- `vista-mfb.png`: Vista MFB logo from the bank's [official website](https://vistamfb.com/).
+- `toprate-mfb.svg`: Toprate MFB catalog mark based on the bank identity published on its [official website](https://www.topratemfbank.com/), which did not expose a stable downloadable logo asset.
+- `mahfuz-mfb.svg`: Mahfuz MFB catalog mark based on the official [Google Play listing](https://play.google.com/store/apps/details?hl=es_MX&id=com.qucoon.middlewaremobile.mahfuz); no stable public logo asset was exposed.
+- `movasco-mfb.svg`: Movasco MFB catalog mark for the institution record; no stable official logo asset was found.
+- `gomoney.svg`: GoMoney service mark based on the official [GoMoney terms site](https://terms.gomoney.global/), which identifies Sterling as the issuer.
+- `kongapay.svg`: KongaPay catalog mark based on the current identity published on the [official KongaPay website](https://www.kongapay.com/about), whose official logo asset is white-on-transparent.
+- `chams-mobile.png`: ChamsMobile logo from the company's [official website](https://chamsmobile.com/about-us/).
+- `xpress-wallet.png`: Xpress Payments logo from the company's [official website](https://www.xpresspayments.com/).
+- `9psb.png`: 9 Payment Service Bank logo from the bank's [official website](https://9psb.com.ng/contact/).
+- `hope-psb.svg`: Hope PSBank logo served by the bank's [official website](https://hopepsbank.com/).
+- `momo-psb.png`: MoMo PSB logo from the bank's [official website](https://www.momo.ng/about/).
+- `smartcash-psb.svg`: SmartCash PSB catalog mark based on the service identity published on the [official SmartCash website](https://www.smartcashpsb.ng/about-us/), which blocked direct asset retrieval.
+- `whitecrust.png`: Whitecrust Finance logo from the company's [official website](https://whitecrust.co/).
+- `9japay.svg`: 9jaPay logo served by the bank's [official website](https://9japay.com/).
+- `advancly-mfb.svg`: Advancly MFB navigation logo from the bank's [official website](https://advanclymfb.com/).
+- `akuchukwu-mfb.png`: Akuchukwu Microfinance Bank logo from the bank's [official website](https://www.akuchukwumfbltd.com/).
+- `alat-wema.svg`: ALAT by Wema logo from the [Paystack NigeriaLogos catalog](https://github.com/PaystackHQ/nigerialogos), sourced from the bank's [official ALAT site](https://alat.ng/).
+- `alternative-bank.svg`: The Alternative Bank logo from the bank's [official website](https://altbank.ng/).
+- `astrapolaris-mfb.png`: Astra-Polaris MFB logo from the bank's [official website](https://www.astrapolaris.com/).
+- `avuenegbe-mfb.png`: Avuenegbe MFB logo from the bank's [official website](https://avuenegbemfb.com.ng/).
+- `baobab-mfb.svg`: Catalog mark based on the current Baobab identity published by the bank's [official Nigeria site](https://baobab.com/ng/); the site did not expose a stable downloadable asset.
+- `branch.svg`: Branch logo from the company's [official Nigeria site](https://branch.co/ng/about-us/).
+- `centrum-finance.svg`: Catalog mark for Centrum Finance; no stable public logo asset was exposed by the institution's public references.
+- `citibank.svg`: Citi mark based on Citigroup's [official Nigeria presence](https://www.citigroup.com/global/about-us/global-presence/nigeria).
+- `citycode-mortgage.png`: CityCode Mortgage Bank logo from the bank's [official website](https://citycodemortgagebank.com/).
+- `county-finance.png`: County Finance logo from the company's [official website](https://county.ng/).
+- `crust-mfb.svg`: Crust MFB logo from the bank's [official website](https://www.crustmfb.com/).
+- `ekondo-mfb.png`: Ekondo Microfinance Bank logo from the bank's [official website](https://ekondomfbank.com/).
+- `excel-finance.svg`: Catalog mark for Excel Finance Bank; no stable public logo asset was exposed by the institution's public references.
+- `fewchore-finance.png`: Fewchore Finance logo from the company's [official website](https://www.fewchorefinance.com/).
+- `first-royal-mfb.png`: First Royal MFB logo from the bank's [official website](https://firstroyalmfb.com/).
+- `flutterwave-mfb.svg`: Flutterwave logo from the company's [official press kit](https://flutterwave.com/mw/press-kit).
+- `fortress-mfb.png`: Fortress MFB logo from the bank's [official website](https://www.fortressmicrofinancebank.com/).
+- `garun-mallam-mfb.svg`: Catalog mark for Garun Mallam MFB; the licensed-bank reference did not expose a stable public logo asset.
+- `goldman-mfb.svg`: Catalog mark based on Goldman MFB's published identity and [official app reference](https://play.google.com/store/apps/details?id=com.goldman.digitbank); the website did not expose a stable downloadable asset.
+- `good-shepherd-mfb.png`: Good Shepherd MFB favicon/logo asset from the bank's [official website](https://www.goodshepherdmfb.com/).
+- `infinity-trust-mortgage.png`: Infinity Trust Mortgage Bank navigation logo from the bank's [official website](https://www.infinitytrustmortgagebank.com/).
+- `isua-mfb.svg`: Catalog mark for Isua MFB; no stable public logo asset was exposed by the institution's public references.
+- `lemmy-mfb.svg`: Catalog mark based on Lemmy MFB's identity described in [LemFi's official legal reference](https://lemfi.com/en-ng/legal/lemmy-mfb/terms); no stable standalone bank logo asset was exposed.
+- `letshego-mfb.png`: Letshego logo from the group's [official Nigeria site](https://www.letshego.com/nigeria).
+- `livingtrust-mortgage.png`: LivingTrust Mortgage Bank logo from the bank's [official website](https://www.livingtrustng.com/).
+- `mainstreet-mfb.png`: Mainstreet MFB logo from the bank's [official website](https://www.mainstreetmfb.com/).
+- `mint-finex-mfb.svg`: Catalog mark for MINT-FINEX MFB; no stable public logo asset was exposed by the institution's public references.
+- `mutual-benefits-mfb.png`: Mutual Benefits MFB logo from the bank's [official website](https://www.mutualbenefitsmfb.com.ng/).
+- `ndcc-mfb.svg`: Catalog mark for NDCC Microfinance Bank; no stable public logo asset was exposed by the institution's public references.
+- `pathfinder-mfb.svg`: Catalog mark for Pathfinder Microfinance Bank; no stable public logo asset was exposed by the institution's public references.
+- `pettysave-mfb.svg`: Pettysave MFB logo from the bank's [official website](https://www.pettysavemfb.com/).
+- `pfi-finance.svg`: Catalog mark for PFI Finance Company; no stable public logo asset was exposed by the institution's public references.
+- `prosperis-finance.png`: Prosperis Finance identity from the company's [official website](https://www.prosperagroup.co/), which publishes the group's finance-service mark.
+- `randalpha-mfb.svg`: Catalog mark based on Randalpha's official building signage shown on the bank's [official website](https://randalphamfbank.com/); no standalone logo asset was exposed.
+- `supreme-mfb.png`: Supreme MFB logo from the bank's [official website](https://www.suprememfb.com/).
+- `rephidim-mfb.svg`: Rephidim MFB logo from the bank's [official website](https://www.rephidimmfb.com/).
+- `vale-finance.svg`: Vale Finance logo from the company's [official website](https://www.vale.ng/).
+- `standard-chartered.svg`: Standard Chartered logo from the group's [official media asset library](https://www.sc.com/en/media/asset-library/).
+- `stanford-mfb.png`: Stanford MFB logo from the bank's [official website](https://stanfordmfb.com.ng/).
+- `stb-mortgage.jpg`: STB Mortgage Bank logo from the bank's [official website](https://stbsociety.com/).
+- `summit-bank.svg`: Summit Bank logo from the bank's [official website](https://summitbankng.com/).
+- `transpay-mfb.png`: TransPay MFB logo from the bank's [official website](https://www.transpaymfb.com/).
+- `ucee-mfb.png`: UCEE MFB logo from the bank's [official website](https://getucee.com/).
+- `zap.svg`: Zap by Paystack logo from the [official Zap website](https://joinzap.com/), served through the open-source [NigeriaLogos catalog](https://github.com/PaystackHQ/nigerialogos).
+- `shield-mfb.svg`: Catalog mark created for Shield MFB because the public licensed-bank references identify the institution but do not expose a stable public logo asset; source [CBN licensed-bank listing](https://www.cbn.gov.ng/Out/2020/FPRD/MFB311219.pdf).
+
+- `jaiz-bank.jpg`: Jaiz Bank's official logo, downloaded from the [Jaiz Bank website](https://www.jaizbankplc.com/) via the [Wikimedia Commons source page](https://commons.wikimedia.org/wiki/File:Jaiz_New_Logo.jpg).
+- `kadpoly.png`: Kadpoly MFB's official app icon from its [Google Play listing](https://play.google.com/store/apps/details?id=com.kadpolymfb.kadpolymfbmobile).
+- `lotus-bank.png`: Lotus Bank site icon from [lotusbank.com](https://www.lotusbank.com/).
+- `michael-okpara.png`: Michael Okpara UniAgric MFB logo from [mouaumfb.com](https://mouaumfb.com/).
+- `nomba-favicon.png`: Nomba's official mark from [nomba.com](https://nomba.com/), used because Nombank MFB is the banking subsidiary referenced by Nomba.
+- `paga.svg` and `paystack.svg`: Paystack NigeriaLogos assets, covered by the MIT license above.
+- `palmpay.png`: PalmPay app mark from the official [PalmPay Android listing](https://play.google.com/store/apps/details?id=com.transsnet.palmpay).
+- `parallex-bank.png`: Parallex Bank site icon from [parallexbank.com](https://parallexbank.com/).
+- `pocketapp.png`: PocketApp's official app icon from its [Google Play listing](https://play.google.com/store/apps/details?id=com.abegapp).
+- `providus-bank.png`: Providus Bank navigation logo from [providusbank.com](https://www.providusbank.com/).
+- `rubies.png`: Rubies Microfinance Bank logo from [rubies.ng](https://rubies.ng/).
+
+Paystack-Titan is a Paystack and Titan Trust Bank partnership rather than a standalone bank, so the Paystack mark is used for that service record. The branding remains local and can be replaced with a licensed composite mark if one is supplied by the provider.

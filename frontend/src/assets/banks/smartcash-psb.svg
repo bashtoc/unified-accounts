@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 72" role="img" aria-labelledby="title">
+  <title>SmartCash PSB</title>
+  <rect width="220" height="72" rx="18" fill="#fff2f1"/>
+  <circle cx="36" cy="36" r="22" fill="#e2272d"/>
+  <path d="M25 31c5-6 17-6 22 0M25 41c5 6 17 6 22 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <text x="76" y="43" fill="#d51f28" font-family="Arial, sans-serif" font-size="22" font-weight="700">SmartCash</text>
+</svg>

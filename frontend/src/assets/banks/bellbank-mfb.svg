@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">BellBank Microfinance Bank</title>
+  <desc id="desc">BellBank Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#143b68"/>
+  <path d="M256 112c-56 0-101 45-101 101v49l-28 54h258l-28-54v-49c0-56-45-101-101-101zm0 283c23 0 42-16 48-38h-96c6 22 25 38 48 38z" fill="#f5c34c"/>
+  <text x="256" y="449" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" fill="#fff">BELLBANK</text>
+</svg>

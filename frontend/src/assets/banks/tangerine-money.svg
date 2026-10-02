@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tangerine Money</title>
+  <desc id="desc">Tangerine Money catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#ef742f"/>
+  <circle cx="256" cy="205" r="105" fill="#fff"/>
+  <path d="M173 161h166v43h-60v113h-46V204h-60z" fill="#ef742f"/>
+  <text x="256" y="438" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#fff">TANGERINE</text>
+</svg>

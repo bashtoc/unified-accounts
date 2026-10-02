@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title">
+  <title>NDCC Microfinance Bank</title>
+  <rect width="320" height="96" rx="14" fill="#176d58"/>
+  <circle cx="48" cy="48" r="25" fill="#d9f06b"/>
+  <path d="M34 60V37h11v23M51 60V37h11v23M30 42h38M30 58h38" fill="none" stroke="#176d58" stroke-width="4" stroke-linecap="round"/>
+  <text x="86" y="51" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="700">NDCC</text>
+  <text x="87" y="72" fill="#bfe9dd" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">MICROFINANCE BANK</text>
+</svg>

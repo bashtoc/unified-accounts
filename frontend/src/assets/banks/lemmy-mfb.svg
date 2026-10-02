@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title">
+  <title>Lemmy Microfinance Bank</title>
+  <rect width="320" height="96" rx="14" fill="#0b263b"/>
+  <circle cx="48" cy="48" r="25" fill="#ef6c49"/>
+  <path d="M38 33v30h20M38 48h17" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <text x="86" y="52" fill="#fff" font-family="Arial,sans-serif" font-size="31" font-weight="700">lemmy</text>
+  <text x="87" y="73" fill="#b8cedd" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">MICROFINANCE BANK</text>
+</svg>

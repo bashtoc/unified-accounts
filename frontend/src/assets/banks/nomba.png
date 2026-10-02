@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.png" type="image/png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nomba - Your Money. Your Business. Borderless.</title>
+    
+    <!-- Preload critical fonts -->
+    <link rel="preconnect" href="https://rsms.me/" />
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    
+    <!-- Module preloading: Vite auto-injects modulepreload links for the
+         real chunks at build time. Manual /src/*.tsx preloads end up as
+         broken text/plain or text/html in prod (the source files are
+         transformed to /assets/<hash>.js but their .tsx-extension
+         preloads aren't rewritten), which triggers index.html's error
+         handler and force-reloads the page on first navigation. -->
+    
+    <!-- Critical CSS inline for above-the-fold -->
+    <style>
+      /* Inline critical styles for instant rendering */
+      .hero-instant { 
+        min-height: 100vh; 
+        display: flex; 
+        align-items: center; 
+        background: linear-gradient(135deg, hsl(45 100% 51%) 0%, hsl(43 96% 48%) 50%, hsl(41 90% 45%) 100%);
+      }
+      .hero-text { 
+        opacity: 0; 
+        animation: fadeInUp 0.6s ease-out 0.1s forwards; 
+      }
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(30px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+    
+    <!-- DNS prefetch for external domains -->
+    <link rel="dns-prefetch" href="//nomba.com">
+    <link rel="preconnect" href="https://nomba.com" crossorigin>
+    
+    <!-- Performance optimizations -->
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#FFC105">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    
+    <!-- SEO Meta Tags - Default (will be overridden by usePageSEO hook) -->
+    <meta name="description" content="Open a Nomba business account in 3 minutes. POS terminals, online checkout, wire transfers, multi-currency wallets — trusted by 600,000+ Nigerian businesses.">
+    <meta name="keywords" content="Remittances to Nigeria, send money to Africa, multi-currency bank account, FX transfers, diaspora banking, USD accounts in Nigeria, GBP to NGN, EUR accounts Africa, fintech remittance, borderless banking">
+    <meta name="author" content="Nomba" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://nomba.com" />
+
+    <!-- Open Graph Tags -->
+    
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nomba.com" />
+    <meta property="og:image" content="https://nomba.com/nomba-social-preview.png">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="Nomba" />
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@nomba" />
+    <meta name="twitter:creator" content="@nomba" />
+    
+    
+    <meta name="twitter:image" content="https://nomba.com/nomba-social-preview.png">
+
+    <!-- Additional SEO Meta Tags -->
+    <meta name="geo.region" content="NG" />
+    <meta name="geo.placename" content="Nigeria" />
+    <meta name="language" content="English" />
+    <meta name="coverage" content="Worldwide" />
+    <meta name="distribution" content="Global" />
+    <meta name="rating" content="General" />
+    
+    <!-- Hreflang for international content -->
+    <link rel="alternate" hreflang="en" href="https://nomba.com" />
+    <link rel="alternate" hreflang="en-ng" href="https://nomba.com" />
+    <link rel="alternate" hreflang="en-ca" href="https://nomba.com/canada" />
+    <link rel="alternate" hreflang="en-cd" href="https://nomba.com/drc" />
+    <link rel="alternate" hreflang="x-default" href="https://nomba.com" />
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7XC8Y2VZ9F" crossorigin="anonymous"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7XC8Y2VZ9F', {
+        page_title: document.title,
+        page_location: window.location.href,
+        send_page_view: true
+      });
+    </script>
+
+    <!-- Additional Schema.org markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Nomba",
+      "alternateName": "Nomba Nigeria",
+      "url": "https://nomba.com",
+      "logo": "https://nomba.com/logo.png",
+      "description": "Business banking, POS terminals, online payments, and international wire transfers for businesses across Africa",
+      "foundingDate": "2017",
+      "founders": [
+        {
+          "@type": "Person",
+          "name": "Yinka Adewale"
+        }
+      ],
+      "sameAs": [
+        "https://twitter.com/nomba",
+        "https://linkedin.com/company/nomba",
+        "https://facebook.com/nomba",
+        "https://instagram.com/nomba"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+234-1-234-5678",
+        "contactType": "customer service",
+        "availableLanguage": ["English"]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "NG",
+        "addressLocality": "Lagos"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Nomba",
+      "url": "https://nomba.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://nomba.com/faq?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "name": ["POS Terminals", "Business Accounts", "Online Checkout", "Wire Transfers", "Remittance Infrastructure"],
+      "url": [
+        "https://nomba.com/pos-terminals",
+        "https://nomba.com/business-accounts",
+        "https://nomba.com/checkout",
+        "https://nomba.com/wire-transfers",
+        "https://nomba.com/remittance-infrastructure"
+      ]
+    }
+    </script>
+    <meta property="og:title" content="Nomba - Your Money. Your Business. Borderless.">
+  <meta name="twitter:title" content="Nomba - Your Money. Your Business. Borderless.">
+  <meta property="og:description" content="Send, receive, and manage money in NGN, USD, GBP, and EUR with Nomba. Designed for individuals and businesses, Nomba lets you bank globally, settle instantly, and access powerful financial tools.">
+  <meta name="twitter:description" content="Send, receive, and manage money in NGN, USD, GBP, and EUR with Nomba. Designed for individuals and businesses, Nomba lets you bank globally, settle instantly, and access powerful financial tools.">
+  <script type="module" crossorigin src="/assets/index-B-7xFyUF.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CTSqXOi-.css">
+</head>
+
+  <body>
+    <div id="root">
+      <!-- Instant loading indicator shown while JS bundle parses -->
+      <div id="initial-loader" style="display:flex;align-items:center;justify-content:center;min-height:100vh;background:#fff;">
+        <div style="width:40px;height:40px;border:3px solid #e5e7eb;border-top-color:#FFC105;border-radius:50%;animation:spin .6s linear infinite;"></div>
+      </div>
+      <style>@keyframes spin{to{transform:rotate(360deg)}}</style>
+    </div>
+  </body>
+</html>

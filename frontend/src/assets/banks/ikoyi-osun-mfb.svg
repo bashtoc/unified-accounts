@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ikoyi-Osun Microfinance Bank</title>
+  <desc id="desc">Catalog mark for Ikoyi-Osun Microfinance Bank</desc>
+  <rect width="512" height="512" rx="96" fill="#153b5b"/>
+  <circle cx="256" cy="206" r="126" fill="#e8b04b"/>
+  <path d="M180 249h152v38H180z" fill="#153b5b"/>
+  <path d="M204 164h32v122h-32zM276 164h32v122h-32z" fill="#153b5b"/>
+  <text x="256" y="383" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" text-anchor="middle">IO</text>
+</svg>

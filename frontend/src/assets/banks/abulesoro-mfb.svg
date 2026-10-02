@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Abulesoro Microfinance Bank</title>
+  <desc id="desc">Abulesoro Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#0f5e70"/>
+  <path d="M256 115 365 172v95c0 70-47 115-109 141-62-26-109-71-109-141v-95z" fill="#f2bb43"/>
+  <path d="m193 257 42 42 86-94" fill="none" stroke="#0f5e70" stroke-linecap="round" stroke-linejoin="round" stroke-width="28"/>
+  <text x="256" y="440" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#fff">ABULESORO</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">FirstMidas Microfinance Bank</title>
+  <desc id="desc">FirstMidas Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#153c73"/>
+  <circle cx="256" cy="207" r="106" fill="#ecb43d"/>
+  <path d="M190 145h143v42h-96v37h83v41h-83v77h-47z" fill="#fff"/>
+  <text x="256" y="441" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#fff">FIRSTMIDAS</text>
+</svg>

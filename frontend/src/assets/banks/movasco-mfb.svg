@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 72" role="img" aria-labelledby="title">
+  <title>Movasco Microfinance Bank</title>
+  <rect width="220" height="72" rx="18" fill="#fff3f0"/>
+  <circle cx="36" cy="36" r="22" fill="#d4573d"/>
+  <path d="M25 45V28l11 11 11-11v17" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+  <text x="76" y="43" fill="#d4573d" font-family="Arial, sans-serif" font-size="23" font-weight="700">movasco</text>
+</svg>

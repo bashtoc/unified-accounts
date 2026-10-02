@@ -1,0 +1,38 @@
+# Dependencies and package-manager caches
+node_modules/
+**/node_modules/
+.npm/
+.pnpm-store/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build output and coverage
+dist/
+**/dist/
+build/
+**/build/
+coverage/
+**/coverage/
+.vite/
+**/.vite/
+
+# Runtime and uploaded data
+uploads/
+**/uploads/
+*.log
+npm-debug.log*
+
+# Local OS/editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# TypeScript incremental state
+*.tsbuildinfo

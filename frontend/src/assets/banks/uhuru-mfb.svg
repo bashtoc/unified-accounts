@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Uhuru Microfinance Bank</title>
+  <desc id="desc">Uhuru Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#167a61"/>
+  <path d="M154 140h49v128c0 31 19 50 53 50s53-19 53-50V140h49v131c0 61-39 99-102 99s-102-38-102-99z" fill="#fff"/>
+  <path d="M154 140h49v37h-49z" fill="#f0b63c"/>
+  <text x="256" y="439" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" fill="#f0b63c">UHURU MFB</text>
+</svg>

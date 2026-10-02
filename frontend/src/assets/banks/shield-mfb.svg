@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Shield Microfinance Bank</title>
+  <desc id="desc">Catalog mark for Shield Microfinance Bank</desc>
+  <path d="M256 32 432 96v136c0 119-76 197-176 248C156 429 80 351 80 232V96z" fill="#1c4b75"/>
+  <path d="m256 82 126 46v104c0 87-49 146-126 188-77-42-126-101-126-188V128z" fill="#36b7a5"/>
+  <path d="m176 238 54 54 107-111" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <text x="256" y="456" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" text-anchor="middle">SHIELD MFB</text>
+</svg>

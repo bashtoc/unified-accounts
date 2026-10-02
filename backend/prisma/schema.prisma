@@ -1,0 +1,244 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserStatus {
+  ACTIVE
+  SUSPENDED
+  DELETED
+}
+
+enum OtpPurpose {
+  REGISTRATION
+  LOGIN
+  PASSWORD_RESET
+  DEVELOPER_ACCOUNT_LINK
+}
+
+enum DeveloperApplicationStatus {
+  INACTIVE
+  ACTIVE
+  REJECTED
+  SUSPENDED
+  DELETED
+}
+
+enum DeveloperApplicationReviewDecision {
+  APPROVED
+  REJECTED
+  SUSPENDED
+  REACTIVATED
+}
+
+enum MonitoringAdminRole {
+  OWNER
+  REVIEWER
+  READ_ONLY
+}
+
+enum MonitoringAdminStatus {
+  ACTIVE
+  SUSPENDED
+}
+
+model User {
+  id              String                 @id @default(uuid()) @db.Char(36)
+  fullName        String
+  phoneNumber     String                 @unique
+  email           String?                @unique
+  passwordHash    String
+  phoneVerifiedAt DateTime?
+  status          UserStatus             @default(ACTIVE)
+  createdAt       DateTime               @default(now())
+  updatedAt       DateTime               @updatedAt
+  deletedAt       DateTime?
+  refreshTokens   RefreshToken[]
+  applications    DeveloperApplication[]
+
+  @@index([status])
+  @@index([deletedAt])
+}
+
+model Bank {
+  id                 Int               @id @default(autoincrement())
+  name               String
+  slug               String            @unique
+  bankCode           String            @unique
+  longCode           String?
+  nipInstitutionCode String?
+  supportsTransfer   Boolean           @default(true)
+  country            String            @default("Nigeria")
+  currency           String            @default("NGN")
+  bankType           String?           @db.VarChar(40)
+  logoUrl            String
+  active             Boolean           @default(true)
+  featured           Boolean           @default(false)
+  displayOrder       Int               @default(0)
+  status             String            @default("normal")
+  recentReports      Json              @default("[]")
+  statusUpdatedAt    DateTime?
+  trustScore         Int               @default(100)
+  latencyMs          Int?
+  lastCheckedAt      DateTime?
+  statusSource       String?           @db.VarChar(40)
+  createdAt          DateTime          @default(now())
+  updatedAt          DateTime          @updatedAt
+  statusEvents       BankStatusEvent[]
+
+  @@index([nipInstitutionCode])
+}
+
+model OtpCode {
+  id          String     @id @default(uuid()) @db.Char(36)
+  phoneNumber String
+  codeHash    String
+  purpose     OtpPurpose
+  attempts    Int        @default(0)
+  expiresAt   DateTime
+  consumedAt  DateTime?
+  createdAt   DateTime   @default(now())
+
+  @@index([phoneNumber, purpose, consumedAt])
+  @@index([expiresAt])
+}
+
+model RefreshToken {
+  id        String    @id @default(uuid()) @db.Char(36)
+  userId    String    @db.Char(36)
+  tokenHash String
+  expiresAt DateTime
+  revokedAt DateTime?
+  createdAt DateTime  @default(now())
+  user      User      @relation(fields: [userId], references: [id])
+
+  @@index([userId, revokedAt])
+  @@index([expiresAt])
+}
+
+model DeveloperApplication {
+  id          String                     @id @default(uuid()) @db.Char(36)
+  userId      String                     @db.Char(36)
+  name        String
+  description String?                    @db.Text
+  websiteUrl  String?                    @db.VarChar(2048)
+  status      DeveloperApplicationStatus @default(INACTIVE)
+  createdAt   DateTime                   @default(now())
+  updatedAt   DateTime                   @updatedAt
+  user        User                       @relation(fields: [userId], references: [id])
+  apiKeys     ApiKey[]
+  requestLogs ApiRequestLog[]
+  reviews     DeveloperApplicationReview[]
+
+  @@index([userId, status])
+}
+
+model DeveloperApplicationReview {
+  id             String                           @id @default(uuid()) @db.Char(36)
+  applicationId  String                           @db.Char(36)
+  reviewerId     String                           @db.VarChar(191)
+  reviewerEmail  String?                          @db.VarChar(254)
+  previousStatus DeveloperApplicationStatus?
+  newStatus      DeveloperApplicationStatus
+  decision       DeveloperApplicationReviewDecision
+  reason         String?                          @db.Text
+  createdAt      DateTime                         @default(now())
+  application    DeveloperApplication             @relation(fields: [applicationId], references: [id])
+
+  @@index([applicationId, createdAt])
+  @@index([decision, createdAt])
+}
+
+model MonitoringAdmin {
+  id            String                         @id @default(uuid()) @db.Char(36)
+  email         String                         @unique @db.VarChar(254)
+  fullName      String                         @db.VarChar(120)
+  role          MonitoringAdminRole            @default(REVIEWER)
+  permissions   Json
+  status        MonitoringAdminStatus          @default(ACTIVE)
+  lastLoginAt   DateTime?
+  createdAt     DateTime                       @default(now())
+  updatedAt     DateTime                       @updatedAt
+  otpCodes      MonitoringAdminOtp[]
+  refreshTokens MonitoringAdminRefreshToken[]
+
+  @@index([status])
+}
+
+model MonitoringAdminOtp {
+  id         String          @id @default(uuid()) @db.Char(36)
+  adminId    String          @db.Char(36)
+  codeHash   String          @db.VarChar(191)
+  attempts   Int             @default(0)
+  expiresAt  DateTime
+  consumedAt DateTime?
+  createdAt  DateTime        @default(now())
+  admin      MonitoringAdmin @relation(fields: [adminId], references: [id], onDelete: Cascade)
+
+  @@index([adminId, consumedAt, createdAt])
+  @@index([expiresAt])
+}
+
+model MonitoringAdminRefreshToken {
+  id        String          @id @default(uuid()) @db.Char(36)
+  adminId   String          @db.Char(36)
+  tokenHash String          @db.VarChar(191)
+  expiresAt DateTime
+  revokedAt DateTime?
+  createdAt DateTime        @default(now())
+  admin     MonitoringAdmin @relation(fields: [adminId], references: [id], onDelete: Cascade)
+
+  @@index([adminId, revokedAt])
+  @@index([expiresAt])
+}
+
+model ApiKey {
+  id            String               @id @default(uuid()) @db.Char(36)
+  applicationId String               @db.Char(36)
+  keyPrefix     String
+  keyHash       String
+  scopes        Json
+  lastUsedAt    DateTime?
+  expiresAt     DateTime?
+  revokedAt     DateTime?
+  createdAt     DateTime             @default(now())
+  application   DeveloperApplication @relation(fields: [applicationId], references: [id])
+
+  @@index([keyPrefix])
+  @@index([applicationId, revokedAt])
+}
+
+model ApiRequestLog {
+  id            String                @id @default(uuid()) @db.Char(36)
+  applicationId String?               @db.Char(36)
+  endpoint      String
+  method        String
+  statusCode    Int
+  requestId     String
+  ipAddress     String?
+  createdAt     DateTime              @default(now())
+  application   DeveloperApplication? @relation(fields: [applicationId], references: [id])
+
+  @@index([applicationId, createdAt])
+  @@index([requestId])
+}
+
+model BankStatusEvent {
+  id            String   @id @default(uuid()) @db.Char(36)
+  bankId        Int
+  transactionId String?  @db.VarChar(128)
+  status        String   @db.VarChar(40)
+  trustScore    Int
+  latencyMs     Int?
+  source        String   @db.VarChar(40)
+  details       Json?
+  createdAt     DateTime @default(now())
+  bank          Bank     @relation(fields: [bankId], references: [id])
+
+  @@unique([bankId, transactionId])
+  @@index([bankId, createdAt])
+}

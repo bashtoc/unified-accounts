@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Hackman Microfinance Bank</title>
+  <desc id="desc">Hackman Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#212d55"/>
+  <path d="M146 134h49v82h122v-82h49v244h-49v-112H195v112h-49z" fill="#fff"/>
+  <path d="M146 134h49v37h-49z" fill="#efb53d"/>
+  <text x="256" y="437" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700" fill="#efb53d">HACKMAN MFB</text>
+</svg>

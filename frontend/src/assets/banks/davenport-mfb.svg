@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Davenport Microfinance Bank</title>
+  <desc id="desc">Davenport Microfinance Bank catalog mark</desc>
+  <rect width="512" height="512" rx="96" fill="#503f94"/>
+  <path d="M147 140h84c82 0 135 46 135 116s-53 116-135 116h-84zm54 49v134h29c48 0 79-24 79-67s-31-67-79-67z" fill="#fff"/>
+  <text x="256" y="439" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#f1bd4c">DAVENPORT MFB</text>
+</svg>
