@@ -1,5 +1,4 @@
 import { FormEvent, useState } from "react";
-import { Activity, AlertCircle, ArrowLeft, CheckCircle2, ShieldCheck } from "lucide-react";
 import { Link, useNavigate } from "react-router-dom";
 import { API_URL } from "../../lib/constants";
 import { useAuth } from "../../context/AuthContext";
@@ -33,16 +32,18 @@ export default function MonitoringAdminAuthPage() {
   };
 
   return (
-    <div className="monitoring-auth flex min-h-screen items-center justify-center bg-[#071019] px-4 py-5 sm:px-8">
-      <div className="w-full max-w-[560px] rounded-2xl bg-white p-6 shadow-2xl sm:p-10">
-        <Link to="/" className="inline-flex items-center gap-2 text-sm font-bold text-[#63758b] hover:text-[#0b5cff]"><ArrowLeft size={16} /> Back to public monitor</Link>
-        <div className="mt-10 flex items-center gap-3"><img src="/safericon.png" alt="" className="h-11 w-11 rounded-xl" /><div><p className="text-xl font-extrabold text-[#14263d]">Safer Signal<span className="text-[#4d8aff]">.</span></p><p className="mt-1 text-[10px] font-bold uppercase tracking-[.18em] text-[#8191a6]">Operator access</p></div></div>
-        <div className="mt-10 flex items-start gap-3 rounded-xl border border-[#dbe8df] bg-[#f3fbf5] p-4"><ShieldCheck size={19} className="mt-0.5 shrink-0 text-[#16a968]" /><p className="text-sm leading-6 text-[#4f6c58]">Only provisioned Signal operators can access business approvals. A one-time code will be sent to your authorized email.</p></div>
-        {step === "email" ? <form onSubmit={requestOtp} className="mt-8 space-y-4"><label className="field-label">Operator email<input required type="email" value={email} onChange={(event) => setEmail(event.target.value)} placeholder="operator@saference.com" autoComplete="email" /></label>{error && <ErrorMessage message={error} />}<button disabled={loading} className="monitoring-button w-full">{loading ? "Sending code..." : "Send operator code"}</button></form> : <form onSubmit={verifyOtp} className="mt-8 space-y-4">{message && <div className="flex items-start gap-2 rounded-lg bg-[#f3fbf5] p-3 text-sm leading-5 text-[#267245]"><CheckCircle2 size={16} className="mt-0.5 shrink-0" />{message}</div>}<label className="field-label">Six-digit code<input required autoFocus inputMode="numeric" value={otp} onChange={(event) => setOtp(event.target.value.replace(/\D/g, "").slice(0, 6))} className="otp-input" placeholder="000000" /></label>{error && <ErrorMessage message={error} />}<button disabled={loading || otp.length !== 6} className="monitoring-button w-full">{loading ? "Verifying..." : "Open approvals"}</button><button type="button" onClick={() => { setStep("email"); setOtp(""); setError(""); }} className="w-full text-center text-sm font-bold text-[#687b92] hover:text-[#0b5cff]">Use a different email</button></form>}
-        <p className="mt-8 flex items-center justify-center gap-2 text-xs font-semibold text-[#8191a6]"><Activity size={14} className="text-[#16a968]" /> Signal admin authentication</p>
+    <div className="auth">
+      <div className="auth-top"><Link to="/" className="wordmark" aria-label="Safer Signal home">Safer Signal<span>.</span></Link><Link to="/">Public site</Link></div>
+      <div className="auth-body">
+        <div className="auth-card">
+          <h1>{step === "email" ? "Operator sign in." : "Check your email."}</h1>
+          <p>{step === "email" ? "Provisioned operators only." : `Enter the six-digit code sent to ${email}.`}</p>
+          {step === "email" ? <form onSubmit={requestOtp} className="auth-form"><label className="field">Email<input required type="email" value={email} onChange={(event) => setEmail(event.target.value)} placeholder="operator@saference.com" autoComplete="email" /></label>{error && <ErrorMessage message={error} />}<button disabled={loading} className="btn">{loading ? "Sending..." : "Send code"}</button></form> : <form onSubmit={verifyOtp} className="auth-form">{message && <div className="notice notice-success !mt-0">{message}</div>}<label className="field">Code<input required autoFocus inputMode="numeric" value={otp} onChange={(event) => setOtp(event.target.value.replace(/\D/g, "").slice(0, 6))} className="otp-input" placeholder="000000" /></label>{error && <ErrorMessage message={error} />}<button disabled={loading || otp.length !== 6} className="btn">{loading ? "Verifying..." : "Continue"}</button></form>}
+          {step === "otp" && <div className="auth-switch"><button type="button" onClick={() => { setStep("email"); setOtp(""); setError(""); }}>Use a different email</button></div>}
+        </div>
       </div>
     </div>
   );
 }
 
-function ErrorMessage({ message }: { message: string }) { return <div className="rounded-lg bg-[#fff1ef] p-3 text-sm text-[#b33f37]"><AlertCircle size={16} className="mr-2 inline" />{message}</div>; }
+function ErrorMessage({ message }: { message: string }) { return <div className="notice notice-danger !mt-0">{message}</div>; }

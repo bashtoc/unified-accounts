@@ -44,7 +44,7 @@ export default function App() {
           <Route path="/admin" element={<RequireMonitoringAdminAuth />}>
             <Route index element={<Navigate to="business-applications" replace />} />
             <Route path="business-applications" element={<MonitoringAdminBusinessApprovalsPage />} />
-            <Route path="approved-businesses" element={<MonitoringAdminBusinessApprovalsPage initialFilter="ACTIVE" title="Approved businesses" description="Review active merchants that are approved to contribute verified bank network telemetry through Signal." />} />
+            <Route path="approved-businesses" element={<MonitoringAdminBusinessApprovalsPage initialFilter="ACTIVE" title="Approved" description="Businesses with active access." />} />
           </Route>
 
           <Route path="/business/monitoring" element={<RequireBusinessAuth />}>
